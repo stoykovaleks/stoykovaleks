@@ -11,8 +11,8 @@
     <img src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif" alt="MasterHead" width="850">
   </a>
 </div>
-
-
+<br> 
+<br>
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=stoykovaleks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&hide_border=false" height="150" alt="stats graph"  />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=stoykovaleks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
