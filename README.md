@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aleks Stoykov</h1>
-<h3 align="center">Javascript student in SoftUni from Bulgaria.</h3>
+<h1 align="left">Hi 👋, I'm Aleks Stoykov</h1>
+<h3 align="left">Javascript student in SoftUni from Bulgaria.</h3>
 
-<p align="center">
+<p align="leftr">
   🌱 I’m currently learning **JavaScript Fundamentals**
 </p>
 
