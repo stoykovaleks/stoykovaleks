@@ -8,7 +8,7 @@
 ###
 <div align="center">
   <a href="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
-    <img src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif" alt="MasterHead" width="350">
+    <img src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif" alt="MasterHead" width="900" height="450">
   </a>
 </div>
 <br> 
