@@ -2,7 +2,7 @@
 <h3 align="left">Javascript student in SoftUni from Bulgaria.</h3>
 
 <p align="leftr">
-  🌱 I’m currently learning **JavaScript Fundamentals**
+  🌱 I’m currently learning **JavaScript Web**
 </p>
 
 ###
